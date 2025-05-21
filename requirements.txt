@@ -1,7 +1,6 @@
 streamlit
 tensorflow==2.13.0
 librosa==0.9.2
-llvmlite==0.38
 scipy
 numpy
 soundfile
