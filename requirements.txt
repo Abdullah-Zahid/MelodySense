@@ -5,3 +5,4 @@ scipy
 numpy
 soundfile
 pickle-mixin
+tf_slim
