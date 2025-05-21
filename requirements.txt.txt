@@ -1,6 +1,0 @@
-streamlit
-tensorflow==2.12.0
-librosa
-numpy
-scipy
-pickle-mixin
